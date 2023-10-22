@@ -50,7 +50,7 @@
     -   Add to startup registry
 
 ## Install
-
+## WARNING! IF RAN IN A VIRTUAL MACHINE IT WONT WORK
 ### Prerequisites
 
 -   Windows 10/11
